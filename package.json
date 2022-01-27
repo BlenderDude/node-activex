@@ -45,6 +45,7 @@
   },
   "license": "MIT",
   "main": "index.js",
+  "types": "index.d.ts",
   "os": [
     "win32"
   ]
